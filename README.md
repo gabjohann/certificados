@@ -3,7 +3,29 @@
 Neste repositório irei armazenar e compartilhar minhas certificações e realizações acadêmicas. 
 
 
-## 🎓️ Cursos 
+<p align="center">
+  <a href="#-posgraduacao">Pós-graduação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-cursos">Cursos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-palestras">Palestras</a>&nbsp;&nbsp;&nbsp;
+
+## 🎓️ Pós-graduação
+
+• Clique sobre o título do curso para visualizar o certificado
+
+| Órgão emissor          | Curso                                                                        | Carga horária |
+|------------------------|------------------------------------------------------------------------------|---------------|
+| Descomplica                  | [Gestão de Tempo][27]                                                   | 30 horas       |
+| Descomplica                  | [Projeto de Vida][28]                                                   | 30 horas       |
+| Descomplica                  | [Coaching e Planejamento de Carreira][29]                                                   | 30 horas       |
+| Descomplica                  | [Governança e Qualidade de Dados][30]                                                   | 30 horas       |
+| Descomplica                  | [Desenvolvimento de Software Educacional][31]                                                   | 30 horas       |
+| Descomplica                  | [Storytelling][32]                                                   | 30 horas       |
+| Descomplica                  | [Segurança e Privacidade][33]                                                   | 30 horas       |
+| Descomplica                  | [Redes de Comunicação, Protocolos e Roteamento][34]                                                   | 30 horas       |
+| Descomplica                  | [Principais Softwares Educacionais][35]                                                   | 30 horas       |
+
+
+## 📄 Cursos 
 
 • Clique sobre o título do curso para visualizar o certificado
 
@@ -34,6 +56,9 @@ Neste repositório irei armazenar e compartilhar minhas certificações e realiz
 | UNOPAR                 | [Introdução à Análise de Dados com Python][23]                               | 15 horas      |
 
 ## 🗣️ Palestras
+
+• Clique sobre o título do curso para visualizar o certificado
+
 
 | Órgão emissor          | Tema                                                                   | Carga horária |
 |------------------------|------------------------------------------------------------------------|---------------|
@@ -69,3 +94,12 @@ Neste repositório irei armazenar e compartilhar minhas certificações e realiz
 [24]: certificado_jornada_dev_EBAC.pdf
 [25]: certificado_google_hackign.pdf
 [26]: certificado-XPE.pdf
+[27]: pos_graduacao/microcertificado-gestão_do_tempo.pdf
+[28]: pos_graduacao/microcertificado-projeto_de_vida.pdf
+[29]: pos_graduacao/microcertificado-coaching_e_planejamento_de_carreira.pdf
+[30]: pos_graduacao/microcertificado-governança_e_qualidade_de_dados.pdf
+[31]: pos_graduacao/microcertificado-desenvolvimento_de_software_educacional.pdf
+[32]: pos_graduacao/microcertificado-storytelling.pdf
+[33]: pos_graduacao/microcertificado-segurança_e_privacidade.pdf
+[34]: pos_graduacao/microcertificado-redes_de_comunicação_protocolos_e_roteamento.pdf
+[35]: pos_graduacao/microcertificado-principais_softwares_educacionais.pdf
